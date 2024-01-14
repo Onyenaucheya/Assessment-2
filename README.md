@@ -1,5 +1,7 @@
 Explain version control: A version control or VCS, tracks the history of changes as people and teams collaborate on projects together.
+
 Explain difference between git and github: Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories.
+
 List 3 other github alternatives:GitLab,Bitbucket,SourceFodge.
 Explain the difference between git fetch and git pull:The key difference between git fetch and pull is that git pull copies changes from a remote repository directly into your working directory, while git fetch does not. The git fetch command only copies changes into your local Git repo. The git pull command does both.
 Explain in simple terms git rebase and the command for it: In simple terms, "git rebase" is a command that allows you to integrate changes from one branch of a software project into another branch. To use this command, you need to have two branches that you want to merge, and you need to be in the branch that you want to integrate the changes into. The basic command is "git rebase branch_to_merge," where "branch_to_merge" is the name of the branch you want to merge changes from.
